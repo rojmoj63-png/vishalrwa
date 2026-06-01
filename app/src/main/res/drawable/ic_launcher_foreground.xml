@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered Graduation Book Icon inside 66dp safe zone -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,30 C30.9,30 30,30.9 30,32 L30,72 C30,73.1 30.9,74 32,74 L76,74 C77.1,74 78,73.1 78,72 L78,32 C78,30.9 77.1,30 76,30 L54,30 L32,30 Z M34,34 L52,34 L52,70 L34,70 L34,34 Z M56,34 L74,34 L74,70 L56,70 L56,34 Z" />
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M38,38 L48,38 L48,41 L38,41 Z M38,44 L48,44 L48,47 L38,47 Z M38,50 L48,50 L48,53 L38,53 Z M60,38 L70,38 L70,41 L60,41 Z M60,44 L70,44 L70,47 L60,47 Z M60,50 L70,50 L70,53 L60,53 Z" />
+    <!-- Overlapping stylized graduation cap tassels -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,23 L72,31 L54,39 L36,31 Z" />
+</vector>
